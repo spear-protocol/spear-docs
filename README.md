@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/SPEAR Chain Cover Image.jpg" alt=""><figcaption><p>The SPEAR Blockchain Network</p></figcaption></figure>
 
-SPEAR stands for **Stablecoin Payments, Exchange, and Remittances**. Our vision of the future is a world where anyone can carry out these essential financial activities using a fully-backed and insured stablecoin over a high-speed and inexpensive blockchain network that is also decentralized and secure. We are building SPEAR Protocol, a scalable Ethereum commit-chain with a non-custodial token bridge and low fees paid by a native stablecoin. Below is a quick summary of its design:
+SPEAR stands for **Stablecoin Payments, Exchange, And Remittances**. Our vision of the future is a world where anyone can carry out these essential financial activities using a fully-backed and insured stablecoin over a high-speed and inexpensive blockchain network that is also decentralized and secure. We are building SPEAR Protocol, a scalable Ethereum commit-chain with a non-custodial token bridge and low fees paid by a native stablecoin. Below is a quick summary of its design:
 
 * Multi-layer architecture inspired by [Polygon’s Matic network](https://finematics.com/polygon-matic-explained/) composed of a scalable EVM-compatible block production layer with instant finality (using [Tendermint](https://docs.tendermint.com/master/introduction/what-is-tendermint.html)) and a decentralized permissionless PoW security layer for staking and validator management.
 * The Spartan DAO, a representative governance system overseeing SPEAR Protocol that has a fair distribution (via PoW) and no premine.

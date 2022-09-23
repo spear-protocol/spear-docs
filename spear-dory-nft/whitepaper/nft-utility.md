@@ -21,12 +21,12 @@ DAO membership will have the following benefits:
 Notes:&#x20;
 
 1. _Governance Delegates are simply DAO members that receive voting power delegation from other DAO members._
-2. _The SPEAR DAO will use a Liquid Democracy voting system where anyone can delegate and undelegate their voting power at any time. See the Governance section of the SPEAR Protocol whitepaper._
+2. _The SPEAR DAO will use a Liquid Democracy voting system where anyone can delegate and undelegate their voting power at any time. See the_ [_Governance_](https://docs.spear.technology/spear-protocol/whitepaper/governance) _section of the SPEAR Protocol whitepaper._
 3. _Consensus Delegates are consensus participants such as Validators and Block Producers that receive staking power delegation from other DAO members._
 
 ### Pioneer DAO Delegates
 
-To maximize decentralization and equitability, there will be no premine meaning Aspi tokens will not exist at genesis. Aspi will only originate from block rewards. Since all consensus mechanisms under the Khimaira Protocol involves an element of Proof-of-Stake (PoS), there is a risk that an attacker can accumulate enough stake while the network is still young and the tokens are relatively cheap. This would give the malicious actor the ability to carry out a 51% attack on the network early on. \
+To maximize decentralization and equitability, there will be no premine meaning Aspi tokens will not exist at genesis. Aspi will only originate from block rewards. Since all consensus mechanisms under the [Kerberos Protocol](https://docs.spear.technology/spear-protocol/whitepaper/consensus#kerberos) involves an element of Proof-of-Stake (PoS), there is a risk that an attacker can accumulate enough stake while the network is still young and the tokens are relatively cheap. This would give the malicious actor the ability to carry out a 51% attack on the network early on. \
 \
 There are two mechanisms that we will deploy to combat the scenario above:
 
@@ -42,7 +42,7 @@ The SPEAR Protocol shall uphold decentralization at all costs. It is designed to
 * If an account doesn't have a Dory NFT, it will be destroyed when it initiates a transfer transaction meaning the account owner would need to zero out its balance.
 * Else if an account holds a Dory NFT, it is considered a persistent account and can receive and transfer normally as any Ethereum account.
 
-The protocol above is meant to slow down the growth of accounts on the Chronicle Chain, not completely hinder it. So as part of the block reward for mining, each miner will receive a fungible PAP token called Kopis, allowing the number of accounts to grow by around 105,120 each year.  See the Economics section of the SPEAR Protocol whitepaper.
+The protocol above is meant to slow down the growth of accounts on the Chronicle Chain, not completely hinder it. So as part of the block reward for mining, each miner will receive a fungible PAP token called Kopis, allowing the number of accounts to grow by around 105,120 each year.  See the [Economics](https://docs.spear.technology/spear-protocol/whitepaper/economics) section of the SPEAR Protocol whitepaper.
 
 ### Profile Picture (PFP)
 

@@ -18,6 +18,8 @@ The DAO shall strive for the network to be open and permissionless as long as su
 
 ### Design Principles
 
+TO DO:
+
 * [ ] Global
 * [ ] Aeonic
 * [ ] General

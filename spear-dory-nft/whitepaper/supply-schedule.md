@@ -19,7 +19,7 @@ The first 3,000 Dory NFTs will be allocated for rewarding our early supporters a
 
 ### The Lochos
 
-The majority of the SPEAR Dory Collection will be referred to as the _Lochos -_ the ["war-band"](https://en.wikipedia.org/wiki/Lochos). They will be released in batches of 10,000 corresponding to Phases 2, 3, and 4 in the Roadmap. Each batch will have a different mint price that is progressively increased to support the different stages of the network's development. A new SPEARList would be made available before each stage is made available to the public.
+The majority of the SPEAR Dory Collection will be referred to as the _Lochos -_ the ["war-band"](https://en.wikipedia.org/wiki/Lochos). They will be released in batches of 10,000 corresponding to Phases 2, 3, and 4 in the [Roadmap](https://docs.spear.technology/roadmap). Each batch will have a different mint price that is progressively increased to support the different stages of the network's development. A new SPEARList would be made available before each stage is made available to the public.
 
 ### The Immortals
 

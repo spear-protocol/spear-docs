@@ -18,7 +18,7 @@ For example, our deliverable for Phase 2 is the SPEAR Protocol testnet. To fund 
 
 ### English-style Auction
 
-The last 300 Dory NFTs known as The Immortals will be auctioned off as ultra-collectibles. We will use an English-style auction on OpenSea with a reserve price of 1 ETH. Auction participants will be placing their bids on-chain which extends the bidding period by 10 minutes. Once the timed-auction is concluded, the user with the highest bid will be granted the NFT for which they placed the bid.
+The last 300 Dory NFTs known as [The Immortals](supply-schedule.md#the-immortals) will be auctioned off as ultra-collectibles. We will use an English-style auction on OpenSea with a reserve price of 1 ETH. Auction participants will be placing their bids on-chain which extends the bidding period by 10 minutes. Once the timed-auction is concluded, the user with the highest bid will be granted the NFT for which they placed the bid.
 
 ### Ephemeral Soul Binding
 

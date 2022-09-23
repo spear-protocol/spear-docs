@@ -1,6 +1,6 @@
 # Introduction
 
-Dory, which means "spear" in ancient Greece, was the primary weapon of the Spartans. It was about 2.4 meters long and was mostly used for thrusting, but the razor sharp edges could also be used for slashing. The Spartan army used it to great effect in their shield wall formation called the Phalanx. The Dory was a symbol of military power during their time, with an elevated status compared to swords. In fact, Homer used the expression "Troy conquered by dory" in his epics. e
+Dory, which means "spear" in ancient Greek, was the primary weapon of the Spartans. It was about 2.4 meters long and was mostly used for thrusting, but the razor sharp edges could also be used for slashing. The Spartan army used it to great effect in their shield wall formation called the Phalanx. The Dory was a symbol of military power during their time, with an elevated status compared to swords. In fact, Homer used the expression "Troy conquered by dory" in his epics.
 
 <figure><img src="../../.gitbook/assets/spartan-dory.jpg" alt=""><figcaption><p>Spartan Dory in Battle</p></figcaption></figure>
 
