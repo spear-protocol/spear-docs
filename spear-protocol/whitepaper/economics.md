@@ -11,14 +11,15 @@
 * Bitcoin’s capped supply is an advantage based on game-theory but creates security issues once the block reward becomes zero&#x20;
 * Inflation would encourage system actors to try to use their Aspi for staking to earn more rewards instead of just holding&#x20;
 * 105,120 blocks expected per year (5 mins per block)
-* In 20 years, the inflation rate will be 1.33% and decreasing per year
+* In 20 years, the inflation rate will be less than 1% and continue to be decreasing per year moving forward
 
-| Halving (every 5 years) | PoW | PoS | Total Supply |
-| ----------------------- | --- | --- | ------------ |
-| 0                       | 40  | 20  | 31,536,000   |
-| 1                       | 20  | 10  | 47,304,000   |
-| 2                       | 10  | 5   | 55,188,000   |
-| 3                       | 5   | 2.5 | 59,130,000   |
+| Halving (every 5 years) | PoW | PoS  | Total Supply |
+| ----------------------- | --- | ---- | ------------ |
+| 0                       | 40  | 20   | 31,536,000   |
+| 1                       | 20  | 10   | 47,304,000   |
+| 2                       | 10  | 5    | 55,188,000   |
+| 3                       | 5   | 2.5  | 59,130,000   |
+| 4                       | 2.5 | 1.25 | 61,101,000   |
 
 ### Dual Difficulty Adjustment
 
