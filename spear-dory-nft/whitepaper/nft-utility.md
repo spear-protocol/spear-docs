@@ -46,7 +46,7 @@ The protocol above is meant to slow down the growth of accounts on the Chronicle
 
 ### Profile Picture (PFP)
 
-Last but not the least, each SPEAR Dory NFT is a badass limited-edition PFP for socially identifying with the SPEAR DAO. The holder of the NFT will have full copyright co-ownership (including commercial rights) to the artwork which is reassigned when a Dory NFT is transferred or traded.&#x20;
+Last but not the least, each SPEAR Dory NFT is a limited-edition PFP for socially identifying with the SPEAR DAO. The holder of the NFT will have full copyright co-ownership (including commercial rights) to the artwork which is reassigned when a Dory NFT is transferred or traded.&#x20;
 
 <figure><img src="../../.gitbook/assets/Sample Dory.jpg" alt=""><figcaption><p>SPEAR Dory NFT PFP</p></figcaption></figure>
 
