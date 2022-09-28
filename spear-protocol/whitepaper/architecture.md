@@ -7,7 +7,7 @@ The DCS Theorem states that decentralized consensus systems such as blockchains 
 
 <figure><img src="../../.gitbook/assets/DC + DS.PNG" alt=""><figcaption><p>Combination of a DC system and a DS system</p></figcaption></figure>
 
-We propose a third approach which combines a DC system with multiple fast and generalized DS systems. We employ a novel sharded multi-layer architecture that enables both vertical and horizontal scaling while maintaining high decentralization and security. Below we show a diagram of this proposed system, then we list and describe the actors participating in the system, the layers and chain structure of the network, and finally how sharding is implemented to boost scalability.\
+We propose a third approach which combines a DC system with multiple fast and generalized DS systems. Below we show a diagram of this proposed system, then we list and describe the actors participating in the system, the layers and chain structure of the network, and finally how sharding is implemented to boost scalability.\
 
 
 <figure><img src="../../.gitbook/assets/SPEAR v2 Architecture-System.png" alt=""><figcaption><p>Combination of a DC system with multiple DS systems</p></figcaption></figure>
@@ -39,6 +39,8 @@ We propose a third approach which combines a DC system with multiple fast and ge
   * Receive voting power that is proportional their staked tokens which can be used to vote for community proposals or delegate to a Governance Delegate.
 
 ### Layers
+
+We employ a novel sharded multi-layer architecture that enables both vertical and horizontal scaling while maintaining high decentralization and security. The figure below illustrates the actors responsible for consensus as well as the functionalities available to those actors in each layer.
 
 ![SPEAR Architecture Layers](<../../.gitbook/assets/SPEAR v2 Architecture-Layers.png>)
 
