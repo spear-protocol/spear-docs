@@ -33,4 +33,4 @@ The next problem is how we get around the data availability problem for the Stra
 2. Using the Spearmint consensus mechanism, other Witnesses in the committee vote for the validity of this superblock by submitting attestations - digital signatures using their private key.
 3. When a superblock receives attestations from 2/3+ of Witnesses, this superblock is then committed to their Checkpoint Chain.
 4. The Witness that created the superblock also uploads it to a decentralized storage provider (either IPFS or Arweave) and submits the pointer to the Chronicle Chain including the pointer to the previous superblock.
-5.
+5. All other capable nodes can review the provided superblocks on the Chronicle Chain and submits a proposal to slash potentially malicious actors via voting of the Judicial Governance committee.
