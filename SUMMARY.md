@@ -29,6 +29,6 @@
 * [Website](https://www.spear.technology/)
 * [Medium](https://medium.com/spear-protocol)
 * [Discord](https://discord.gg/yjvhEG8n6m)
-* [Twitter](https://twitter.com/SPEARProtocol)
+* [Twitter](https://twitter.com/SPEAR\_Protocol)
 * [Reddit](https://www.reddit.com/r/SPEAR\_Protocol/)
 * [Telegram](https://t.me/SPEAR\_Protocol)
