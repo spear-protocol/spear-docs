@@ -26,4 +26,4 @@ Dory NFTs that are part of the Lochos and Immortals sub-collections will be in t
 
 One exception is that an owner of a Dory NFT from these sub-collections can sell back their NFT to the smart contract only and will be refunded with half of what was paid originally. The returned NFT would then be available to be purchased by other interested parties through an auction.
 
-To compensate the holders of Dory eSBTs, they will receive an airdrop of Kopis PFPs proportional to their purchase price. This will be done in two batches, the first one would be right after the Dory was initially purchased and the second is when mainnet is fully launched.
+To compensate the holders of Dory eSBTs, they will receive an airdrop of Kopis [PAPs](https://docs.spear.technology/spear-dory-nft/whitepaper/nft-utility#persistent-account-pass) proportional to their purchase price. This will be done in two batches, the first one would be right after the Dory was initially purchased and the second is when mainnet is fully launched.

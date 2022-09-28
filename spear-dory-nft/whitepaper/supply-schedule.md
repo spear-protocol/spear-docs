@@ -12,10 +12,10 @@ The maximum supply of the SPEAR Dory NFT Collection will be 33,300 which will be
 
 The first 3,000 Dory NFTs will be allocated for rewarding our early supporters and community members. The Vanguard SPEARList is intended to be distributed in the following proportions:
 
-* 2,000 for Community Raffles
-* 500 for Project Collaborations
+* 1,200 for Project Collaborations
+* 1,000 for Community Raffles
+* 500 for Events and Giveaways
 * 300 for Marketing Campaigns
-* 200 for Events and Giveaways
 
 ### The Lochos
 
