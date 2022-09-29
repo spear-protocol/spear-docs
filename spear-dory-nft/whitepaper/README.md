@@ -1,12 +1,12 @@
 ---
 description: Draft (version 0.1)
+cover: ../../.gitbook/assets/spear_dory_white.png
+coverY: -426.4127423822715
 ---
 
 # Whitepaper
 
 ## Bootstrapping the SPEAR Network Through Community Ownership
-
-<figure><img src="../../.gitbook/assets/spear_dory_white.png" alt=""><figcaption></figcaption></figure>
 
 ### Abstract
 
