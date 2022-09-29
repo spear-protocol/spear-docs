@@ -1,12 +1,12 @@
 ---
 description: Draft (version 0.1)
-cover: ../../.gitbook/assets/spear_protocol_reduced.png
-coverY: -12.465373961218836
 ---
 
 # Whitepaper
 
 ## Solving the Blockchain Trilemma to Enable a Stablecoin Economy
+
+<figure><img src="../../.gitbook/assets/spear_protocol_reduced.png" alt=""><figcaption></figcaption></figure>
 
 ### Abstract
 
