@@ -1,6 +1,6 @@
 # Overview
 
-<figure><img src=".gitbook/assets/SPEAR Chain Cover Image.jpg" alt=""><figcaption><p>The SPEAR Blockchain Network</p></figcaption></figure>
+<figure><img src=".gitbook/assets/SPEAR Chain Cover.jpg" alt=""><figcaption><p>The SPEAR Blockchain Network</p></figcaption></figure>
 
 SPEAR stands for **Stablecoin Payments, Exchange, And Remittances**. Our vision of the future is a world where anyone can carry out these essential financial activities using a fully-backed and insured stablecoin over a high-speed and inexpensive blockchain network that is also decentralized and secure. We are building SPEAR Protocol, a scalable Ethereum commit-chain with a non-custodial token bridge and low fees paid by a native stablecoin. Below is a quick summary of its design:
 
