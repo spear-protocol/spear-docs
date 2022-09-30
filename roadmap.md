@@ -1,6 +1,6 @@
 # Roadmap
 
-<figure><img src=".gitbook/assets/Roadmap-Page.png" alt=""><figcaption><p>SPEAR Roadmap</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Roadmap-Page-1.png" alt=""><figcaption><p>SPEAR Roadmap</p></figcaption></figure>
 
 ### Phase 1: Community
 
