@@ -27,9 +27,7 @@
 ## Official Links
 
 * [Website](https://www.spear.technology/)
-* [Discord](https://discord.gg/5w6rkpKkeB)
-* [Twitter](https://twitter.com/SPEAR\_Protocol)
+* [Twitter](https://twitter.com/SPEARDoryNFT)
 * [Medium](https://medium.com/spear-protocol)
 * [Reddit](https://www.reddit.com/r/SPEAR\_Protocol/)
 * [Telegram](https://t.me/SPEAR\_Protocol)
-* [Email](mailto:labs@spear.technology)
